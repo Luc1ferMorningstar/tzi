@@ -1,0 +1,25 @@
+.form{
+    padding: 15px;
+    width: 500px;
+    height: 700px;
+    background-image: url('1.png');
+    border: 1px solid ;
+    border-color: blueviolet;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+input{
+    margin-bottom: 5px;
+}
+.container1{
+    float: left;
+}
+.container2{
+    float: right;
+}
+.container3{
+    clear: both;
+}
